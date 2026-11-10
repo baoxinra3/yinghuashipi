@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://baoxinra3.github.io/yinghuashipi/sitemap.xml
